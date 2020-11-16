@@ -1,7 +1,9 @@
 body { 
-  background-color: #0B193C;  
+  background-color: #0B193C; 
+  
+  h1 {
+  text-align: right;
+ }
 }
 
-h1 {
-  text-align: right;
-}
+
